@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cjcivotten.demotemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cjcivotten.demotemplate.MyBundle
 
 class MyApplicationService {
 
